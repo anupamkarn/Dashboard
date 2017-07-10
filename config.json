@@ -1,0 +1,4 @@
+"localPath" : {
+	"campuslist" : "http://localhost:8080/campuslist",
+	"login" : "http://localhost:8080/login"
+}
